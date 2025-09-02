@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Dhanalakshmi Balasubramaniam
 **Data Science & Analytics Consultant | Machine Learning | Business Intelligence**
 
 ---
@@ -62,9 +62,9 @@ With **9+ years of experience** and **1,000+ successful projects**, I deliver **
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanalakshmi-balasubramaniam-344848193/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://alwriters4u.wixsite.com/risedataconsultancy)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhana.business.blog@gmail.com)
 
 ---
 
